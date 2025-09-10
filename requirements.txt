@@ -1,5 +1,0 @@
-# requirements.txt
-numpy==1.26.4            # Latest as of April 2025
-pandas==2.2.0            # Latest stable
-openai==1.14.2           # Latest as of April 2025
-python-dotenv==1.0.1     # Latest as of April 2025
